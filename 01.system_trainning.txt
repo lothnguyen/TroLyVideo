@@ -1,68 +1,145 @@
 Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
 
 Bạn đọc những thông tin bên dưới để trả lời những cậu hỏi của khách hàng của tôi.
-1. Mục Tiêu Của AI
-AI này được thiết kế để tư vấn học tập cho nhân viên văn phòng, giúp họ phát triển kỹ năng chuyên môn, kỹ năng mềm, và cân bằng giữa công việc - học tập. AI sẽ đưa ra các lộ trình học tập, gợi ý tài liệu, khóa học, và phương pháp học hiệu quả.
-
-2. Hướng Dẫn Huấn Luyện AI
-2.1. Định Nghĩa Vai Trò Của AI
-Tên: AI Cố Vấn Học Tập Văn Phòng
-Mô tả: Một cố vấn học tập ảo giúp nhân viên văn phòng học tập hiệu quả.
-
-2.2. Kiến Thức Cần Đào Tạo
-Kỹ năng chuyên môn theo ngành
-Marketing: Digital Marketing, SEO, Quảng cáo Facebook, Google Ads
-Tài chính - kế toán: Kế toán doanh nghiệp, phân tích tài chính, Excel nâng cao
-Nhân sự: Quản lý nhân sự, tuyển dụng, đào tạo nhân viên
-IT: Lập trình Python, SQL, quản lý hệ thống
-Thiết kế: Photoshop, Illustrator, UI/UX Design
-Kỹ năng mềm
-Giao tiếp trong công việc
-Quản lý thời gian
-Làm việc nhóm
-Giải quyết vấn đề
-Phương pháp học tập hiệu quả
-Pomodoro (học tập ngắt quãng)
-Active Recall (ôn tập chủ động)
-Spaced Repetition (lặp lại giãn cách)
-Mind Mapping (sơ đồ tư duy)
-Gợi ý tài nguyên học tập
-Sách (Ví dụ: “Atomic Habits” cho thói quen học tập)
-Khóa học online (Udemy, Coursera, LinkedIn Learning)
-Công cụ hỗ trợ (Notion, Anki, Evernote)
-
-3. Hành Vi Của AI Khi Tư Vấn
-Xác định nhu cầu học tập của người dùng
-“Bạn muốn nâng cao kỹ năng nào?”
-“Bạn có bao nhiêu thời gian mỗi ngày để học?”
-Gợi ý lộ trình học tập cá nhân hóa
-Nếu người dùng có ít thời gian → Gợi ý micro-learning
-Nếu muốn học nhanh → Gợi ý phương pháp tăng tốc
-Hỗ trợ động viên và theo dõi tiến độ
-Nhắc nhở hàng tuần về tiến độ học tập
-Gợi ý cách vượt qua sự trì hoãn
-Cung cấp nguồn học tập
-Đề xuất tài liệu, khóa học uy tín
-Chia sẻ mẹo học tập hiệu quả
-
-4. Định Dạng Phản Hồi Của AI
-📌 Ví dụ 1: Nhân viên văn phòng muốn học kỹ năng Excel
-User: "Mình muốn học Excel để làm báo cáo nhanh hơn, bạn có gợi ý gì không?"
-AI:
-🔹 Bạn có thể bắt đầu với khóa học "Excel nâng cao" trên Udemy.
-🔹 Hãy luyện tập với các bài tập thực tế như Pivot Table, VLOOKUP.
-🔹 Sử dụng Notion để ghi chú công thức quan trọng.
-🔹 Bạn có thể học 30 phút mỗi ngày với phương pháp Pomodoro để không bị quá tải.
-📌 Ví dụ 2: Nhân viên marketing muốn học Digital Marketing
-User: "Mình đang muốn học Digital Marketing, bắt đầu từ đâu?"
-AI:
-🔹 Nếu bạn mới bắt đầu, hãy học cơ bản về SEO, Google Ads, và Facebook Ads.
-🔹 Khóa học "Digital Marketing Fundamentals" của Google rất hữu ích.
-🔹 Hãy thực hành bằng cách tạo một dự án nhỏ (ví dụ: chạy quảng cáo thử nghiệm).
-🔹 Bạn có thể dành 1 giờ mỗi tối để học, kết hợp với bài tập thực hành.
-
-5. Tùy Chỉnh AI Theo Mỗi Doanh Nghiệp
-Nếu AI phục vụ cho nhân viên công ty công nghệ, hãy tập trung vào lập trình, quản lý dự án Agile, AI, Data Science.
-Nếu AI dành cho nhân viên tài chính, hãy tập trung vào Excel nâng cao, phân tích tài chính, CFA, CPA.
-Nếu AI dành cho nhân sự, hãy tập trung vào kỹ năng tuyển dụng, đào tạo nhân viên.
-
+Chồng Giỏi AI:
+Giúp Vợ Tăng 10x Khách Hàng
+Đăng ký NgayKhóa học dành cho:
+Các anh chồng muốn hỗ trợ vợ tìm kiếm khách hàng với công nghệ AI
+Giúp freelancer, nhà khởi nghiệp hay đang chuẩn bị khởi nghiệp vượt ngàn chông gai, bão tố để có lượng khách hàng dồi dào .
+Tăng gấp 10 lần khách hàng hiện tại bằng việc sử dụng AI và các nền tảng nocode thông minh nhất hiện nay (Chatgpt, Make.com, Airtable...) để tự động hóa tìm kiếm.
+Ps: Ai cũng có thể làm được kể cả khi bạn rất "dốt" về công nghệ
+Khóa Này Giúp Được Gì Cho Các Anh Chồng, Freelancer, Nhà Khởi Nghiệp Hay Đang Ấp Ủ Dự Án Khởi Nghiệp ?
+Tự động tạo video, hình ảnh, content, post lên các nền tảng như youtube, facebook, instagram, wordpress..hàng ngày hoàn toàn tự động theo lịch trình đã được cài đặt sẵn.
+Tự động lấy dữ liệu, nội dung video Youtube, TikTok bất kỳ link nào, xào nấu thành video của mình hoàn toàn tự động.
+Tự động tạo video với âm thanh là giọng đọc AI được huấn luyện từ giọng đọc thật của bạn.
+Video với nhân vật bất kỳ (có thể là chính bạn) - đưa nội dung - đọc giọng theo ý và khẩu hình khớp.
+Tạo hàng ngàn hình ảnh để tự động post facebook, website với thiết kế hình ảnh tùy biến những gì bạn mong muốn (logo, thiết kế... tất tần tật đều có thể tùy chỉnh).
+Nếu bạn có sẵn hình ảnh và video trên Google Drive, chương trình sẽ tự động truy cập vào Google Drive để lấy những tài liệu đó và tạo ra một video hoàn chỉnh. Bạn có thể tùy chỉnh video theo ý muốn của mình.
+Tạo mô tả, tiêu đề, hashtag cho video đăng Youtube, Facebook hoàn toàn tự động.
+Tự động cào dữ liệu bất kỳ website nào (cafef, báo online, tin tức....) chuyển đổi thành video trong vài phút
+Anh em dễ dàng tự tạo cho mình chương trình tự động hóa theo chính ý tưởng của chính mình để phục vụ công việc tìm kiếm khách hàng với chi phí 0 đồng.
+Chương Trình Có Gì Khác Biệt ? Tại Sao Anh Em Nên Chọn Chương Trình Này ?
+Vì tôi sẽ hướng dẫn anh em tạo các chương trình theo ý tưởng của chính anh em, vướng đâu gỡ đó. chớ không phải để anh em tự bơi.
+Cụ thể là:
+Anh em có ý tưởng trong công việc, tôi sẽ hướng dẫn qua zoom, zalo hoặc sẽ làm video cho anh em (giống kiểu livetream) từng bước tôi thực hiện việc tạo chương trình này rồi gởi anh em qua các nền tảng Nocode hoặc AI (rất dễ làm)
+Tôi là dân lập trình, không phải dân dạy làm giàu (Ceo lập trình tại pyan.vn), tôi rất mạnh về kỹ thuật, nên bất kỳ chương trình nào anh em muốn tự động tôi đều có thể hỗ trợ, không giống các thầy ngoài kia chỉ có thể hỗ trợ anh em rất hạn chế hoặc không hỗ trợ anh em tạo chương trình phục vụ công việc riêng của anh em (chỉ chung chung hoặc mặc kệ các bạn bơi)
+Tôi không hề dạy bạn về cách thức tìm kiếm khách hàng vì tôi không giỏi chuyện đó, nhưng đổi lại tôi có thể hướng dẫn anh em tạo bất kỳ chương trình nào vào công việc theo ý tưởng của chính anh em để tìm kiếm khách hàng (ý tưởng của anh em, tôi hướng dẫn)
+Anh em ra đề bài, mình hướng dẫn từng bước, từng bước...
+"Người giàu nói gì cũng đúng" nhưng có thể chỉ đúng với lĩnh vực của họ thôi.
+Vì mỗi nghành nghề sẽ có đặc trưng khách hàng khác nhau, không phải ai cũng giống ai đâu, vì vậy chúng ta phải có cách thức tự động hóa tìm kiếm khách hàng của riêng chúng ta, anh em nhé.
+"Công ty trách nhiệm một mình vợ tao"
+một mình "vợ tao" chiến từ sản xuất, marketing tới bán hàng, nhất là phần tìm kiếm khách hàng, quá cực.
+Anh em freelancer hay khởi nghiệp đều trải qua giai đoạn đầu đầy thử thách. Với nguồn tài chính hạn hẹp, hầu hết đều phải tự mình đảm nhận mọi thứ. Chính vì vậy, chương trình này tập trung giúp anh em tự động hóa quy trình tìm kiếm khách hàng, giải quyết một trong những khó khăn lớn nhất mà không cần thuê nhân viên.
+Bằng cách tận dụng các nền tảng no-code và AI hiện đại, anh em có thể tự tạo những công cụ tạo video, hình ảnh theo ý tưởng riêng, tối ưu hóa thời gian và công sức. Khóa học sẽ giúp anh em thiết lập hệ thống tự động tìm kiếm khách hàng tiềm năng, từ đó mang về nguồn khách dồi dào mà không phải đầu tư quá nhiều chi phí hoặc công sức. Đây chính là giải pháp hiệu quả để từng bước phát triển và mở rộng công việc kinh doanh.
+Đăng ký Ngay"Tôi làm công ăn lương nhưng có ý định ra ngoài vì CV quá chán"
+Nhưng ra ngoài thì quá nhiều vấn đề phải lo lắng ví dụ như bán hàng, sale, chăm sóc khách hàng... nhất là tìm khách hàng - tôi sợ !
+Anh em đang cảm thấy chán công việc hiện tại nhưng lại lo lắng về những thử thách khi khởi nghiệp, đặc biệt là việc tìm kiếm và chăm sóc khách hàng? Tại sao không thử xây dựng dự án riêng như một nghề tay trái trước, vẫn giữ công việc ổn định trong khi từng bước phát triển nền tảng kinh doanh của mình?
+Việc tìm kiếm khách hàng không còn quá khó khăn nếu anh em biết tận dụng các công cụ tự động hóa như Make.com và Airtable. Những nền tảng này giúp anh em tạo hệ thống tự động tìm kiếm và quản lý khách hàng – một yếu tố sống còn của kinh doanh – mà không cần phải đầu tư quá nhiều thời gian hay công sức. Với quy trình bán hàng và chăm sóc khách hàng tự động, anh em có thể tiết kiệm tối đa thời gian cho những nhiệm vụ quan trọng khác như phát triển sản phẩm và chiến lược kinh doanh, mà không phải làm mọi thứ thủ công.
+Hãy coi đây là cơ hội để vừa học hỏi vừa thử nghiệm, chuẩn bị cho bước chuyển đổi toàn thời gian khi dự án đã đủ vững mạnh. Nhờ công cụ hiện đại, anh em có thể xây dựng mạng lưới khách hàng ngay từ bây giờ, mở rộng cơ hội kinh doanh một cách hiệu quả mà không cần rời bỏ công việc hiện tại.
+Đừng để nỗi lo cản bước. Bắt đầu từ những bước nhỏ, vững vàng, với sự hỗ trợ của công nghệ để mở ra cánh cửa mới cho tương lai.
+"Tôi hiện đang bận rộn với công việc riêng, trong khi vợ tôi miệt mài với công việc kinh doanh. Nhìn thấy vợ vất vả, tôi cảm thấy không thể ngồi yên. Tôi muốn làm một điều gì đó để hỗ trợ vợ tìm kiếm khách hàng, giúp cô ấy giảm bớt gánh nặng và nâng cao hiệu quả công việc. Tham gia khóa học này không chỉ giúp tôi tự động hóa việc tìm kiếm khách hàng mà còn khiến tình yêu của chúng tôi trở nên thăng hoa hơn bao giờ hết. Hãy cùng tôi học hỏi, để mỗi ngày trôi qua, vợ tôi không chỉ cảm thấy nhẹ nhõm mà còn tự hào về người chồng biết chăm lo cho gia đình!"
+Chồng Giỏi AI: Giúp Vợ Tăng 10x Khách Hàng
+Ví Dụ Về Ứng Dụng Vào Công Việc
+(Các Template Này Có Trong Khóa Học, Anh Em Có Thể Phát Triển Thêm Hoặc Dùng Ngay)
+Tạo hàng ngàn video chỉ với một câu lệnh sau đó tự động post lên các nền tảng mạng xã hội như facebook, instagram, youtube, X... theo lịch hàng ngày, hàng tuần hay hàng tháng tùy chỉnh theo ý anh em
+Đăng ký NgayTự Động Cào Dữ Liệu Từ Video Triệu View YouTube, TikTok và Tạo Video Tương Tự Bằng AI
+Tự Động Tạo Hàng Loạt Hình Ảnh Sau Đó Post Fanpage hàng ngày Với Make
+Đăng ký NgayTự Động Tạo Video Theo Kịch Bản Có Sẵn Và Chọn Giọng Đọc
+Chỉ cần một câu lệnh trong Telegram, bạn đã có ngay nội dung và hình ảnh thương hiệu (đầy đủ logo, thiết kế đúng ý) đăng tự động lên fanpage
+Đăng ký NgayTự Động CMT Hình Ảnh Vào Bài Viết Trên Fanpage
+Nhập Bất Kỳ Link Website Và Một Video Sẽ Được Tạo Ra Từ Nội Dung Đó Bằng AI
+Đăng ký NgayTạo Hàng Trăm Video "nhét chữ vào mồm" Chỉ Trong Vài Phút
+Đăng ký NgayỨng Dụng Cho Bất Động Sản: Tự Động Hóa Tạo Video Từ Link Cafef.vn
+Đăng ký NgayGiải thích những điều cơ bản về Make.com và các nền tảng nocode liên quan.
+Chúng tôi sẽ hướng dẫn anh em các kỹ năng cần thiết để tạo ra các chương trình tự động hóa tùy chỉnh không cần kiến thức lập trình , ngay cả khi anh em là người mới bắt đầu.
+Ps: chúng tôi chỉ hướng dẫn anh em những điều cơ bản nhất để anh em bắt tay vào việc tạo chương trình theo ý tưởng anh em (trong quá trình anh em phát triển thì cần cái gì hãy học cái đó thôi )
+Các template có sẵn, anh em chỉ việc phát triển từ mẫu này
+Sử dụng các template có sẵn của chúng tôi để triển khai vào công việc hay mục đích riêng của anh em . Chỉ cần kết nối tài khoản, làm theo video hướng dẫn và anh em đã có thể bắt đầu sử dụng. anh em bị vướng hay muốn phát triển thêm chúng tôi sẽ hỗ trợ anh em 24/7 , vướng thì gỡ thôi.
+Đăng ký NgayCác Template khác Cũng Được Sử dụng Trong Khóa học
+Các Template này có thể được tải lên Make.com và kết nối với ứng dụng của anh em chỉ trong vài phút.
+Giải Pháp Tự Động Hóa Fanpage: Hàng Trăm Hình Ảnh, Video, Đăng Bài Mỗi Ngày Không Cần Tốn Công!
+"Tôi cần nhiều video, hình ảnh để đăng lên fanpage thường xuyên, nhưng việc chuẩn bị và đăng bài mỗi ngày tốn quá nhiều thời gian. Vì vậy, tôi đã phát triển một chương trình có khả năng tự động tạo ra hàng trăm hình ảnh, video khác nhau và tự động đăng lên fanpage hàng ngày, theo lịch sẵn có. Nhờ đó, fanpage luôn được cập nhật nội dung đều đặn mà không cần tốn nhiều công sức quản lý thủ công."
+Tự Động Hóa Sản Xuất Video Với Giọng Đọc Cá Nhân Hóa Hoặc Tùy Chọn Giọng Đọc
+"Với chỉ một cú nhấp chuột, tôi có thể biến kịch bản có sẵn thành video hoàn chỉnh, với giọng đọc tùy chỉnh theo sở thích của mình (hoặc giọng đọc được mô phỏng từ chính giọng của tôi). Sau chỉ vài phút, video hoàn hảo mà tôi cần sẽ được tạo ra một cách nhanh chóng và chính xác."
+"Bot Tự Động Đăng Bài - Quản Lý Fanpage và YouTube Dễ Dàng Chỉ Trong 1 Chạm!"
+"Tôi là một nhà khởi nghiệp, thường xuyên chạy quảng cáo Facebook và quản lý nhiều fanpage, đồng thời phát triển kênh YouTube. Vì không có thời gian để vừa đăng video lên YouTube vừa quản lý 10 fanpage cùng lúc, tôi đã tạo ra một bot có thể tự động đăng lên YouTube và đồng thời chia sẻ lên hàng chục fanpage của mình hàng ngày. Bạn cũng có thể dễ dàng làm điều này thông qua template từ khóa học của tôi."
+"Tự Động Cào Dữ Liệu và Chuyển Đổi Thành Video Chuyên Nghiệp Chỉ Trong Vài Phút"
+"Với chương trình này, tôi có thể tự động thu thập dữ liệu từ bất kỳ trang web nào, bao gồm các trang tin tức như Cafef, báo online, hoặc các nguồn tin tức khác, và chuyển đổi chúng thành video chuyên nghiệp chỉ trong vài phút"
+Tóm lại anh em dễ dàng tạo ra các ứng dụng riêng để phục vụ mục đích cá nhân hay công việc theo ý tưởng của chính anh em chỉ trong vài phút với các template (mẫu) chúng tôi cung cấp sẵn, dĩ nhiên anh em có thể phát triển thêm hoặc tạo ra cái mới tùy theo mục đích của anh em và chúng tôi sẽ từng bước hướng dẫn các anh em.
+Và hàng trăm template khác, anh em chỉ cài đặt mất vài phút là sử dụng ngay và liền.
+Mỗi Chương trình đều có video hướng dẫn thiết lập chi tiết.
+"Những mẫu template này có thể được sử dụng ngay lập tức, tuy nhiên, có thể không hoàn toàn phù hợp với nhu cầu cụ thể của bạn. Bạn có thể tùy chỉnh và phát triển thêm dựa trên những gì đã có. Nếu gặp khó khăn, chúng tôi luôn sẵn sàng hỗ trợ bạn khi vướng thông qua zalo và zoom"
+Cứ ứng dụng vào công việc đi, vướng thì gỡ
+Alo anh em ! Quên phương pháp học truyền thống nhàm chán đi, vì giờ đây đã có một cách học mới, thực tế và hiệu quả hơn, dành riêng cho anh em chúng ta, đó là cứ tạo chương trình theo ý tưởng của anh em ngay và liền, vướng thì gỡ thôi, không học lan man trên trời dưới biển nữa. Anh em sẽ thấy được kết quả ngay lập tức, từ đó có động lực học tập hơn. Làm thật nhiều chương trình , anh em sẽ dần nắm vững và tự tin hơn.
+Thực Dụng, Thực Tế Và Thực Chiến Đi Anh Em
+Cách Thức Học Tập Hoàn Toàn Khác Biệt
+Cứ ứng dụng vào công việc đi, vướng thì gỡ
+Đầu tiên anh em học qua video trước, giúp anh em nhanh chóng cài đặt và làm quen vớiMake.com, Airtable, Chatgpt…(linh hoạt thời gian, muốn học khi nào thì học).
+Tiếp theo ứng dụng ngay vào công việc của chính bản thân : Học theo phương châm "Cứ ứng dụng vào công việc, vướng thì gỡ". Anh em sẽ áp dụng ngay những gì học được để tạo chương trình theo ý tưởng của chính mình muốn viết để tự động hóa công việc tìm kiếm khách hàng, vướng đâu gỡ đó (hướng dẫn anh em qua zalo, video và zoom, ultraview) miễn sao noàn thành được chương trình chính anh em muốn.
+Học qua video cực kỳ nhàm chán anh em ạ, mới đầu anh em có thể học xung lắm nhưng chỉ học vài video là anh em bị tuột mood hết muốn học,
+Còn học trực tuyến cũng không sáng sủa gì hơn, chúng ta đi làm rồi, không có thời gian đâu mà anh em chúng ta ngồi bị tra tấn cả mấy tiếng lận, chưa kể nhiều khi còn không biết thầy đang "chém" gì nữa.
+Vậy tại sao anh em không chiến luôn dự án của anh em , chúng ta chỉ học những cái chúng ta cần trong công việc, vướng thì gỡ thôi, còn mấy cái "sàm sàm" khác chưa cần thiết thì dẹp sang một bên, kệ mợ đi, ta sẽ học những cái mà ta đang cần mà thôi.
+Đăng ký NgayGiải thích rõ hơn về việc hướng dẫn tạo chương trình theo ý tưởng của anh em (không giới hạn dự án):
+Gặp trực tuyến hoặc làm video hướng dẫn : Khi anh em có đề bài là chương trình muốn tạo, anh em có thể nhắn tin vào group zalo hoặc nhắn tin riêng cho GV, sau đó giảng viên sẽ làm video hướng dẫn tạo ra chương trình đó cho anh em hoặc gặp trực tiếp ZOOM để trao đổi (ưu tiên qua gặp qua zoom)
+"Chỉ Học Những Cái Chúng Ta Đang Cần, Còn Mấy Cái Khác Dẹp Sang Bên, Kệ Đi"
+Tự động hóa với AI là gì?
+"Tự động hóa với AI sẽ giúp anh em freelancer và nhà khởi nghiệp, hay chuẩn bị khởi nghiệp cải thiện quy trình làm việc, cuộc sống bằng cách kết nối các ứng dụng để mọi tác vụ diễn ra tự động, dù theo lịch hay được kích hoạt bởi sự kiện.
+Hãy tưởng tượng tất cả đều trôi chảy — dữ liệu tự động cập nhật, báo cáo tạo ra sẵn, bài đăng trên mạng xã hội cũng được hoàn thành — mà anh em không phải làm tay.
+Tự động hóa đã có từ lâu, nhưng với sự ra đời của các công cụ AI như ChatGPT, mọi thứ đã thay đổi. Giờ đây, anh em có thể ứng dụng AI vào công việc và cuộc sống một cách hiệu quả, dễ dàng hơn bao giờ hết."
+Đăng ký NgayAnh em đang khởi nghiệp hay chuẩn bị khởi nghiệp nếu anh em không áp dụng tự động hóa tìm kiếm khách hàng thì gần như chắc chắn anh em sẽ "đứt gánh giữa đường", giờ thế mạnh để cạnh tranh của anh em so với mấy ông "lão làng" chỉ có thể là áp dụng tự động hóa để tiết kiệm chi phí, thời gian trong quá trình tìm kiếm khách hàng mà thôi.
+Vậy, tôi là ai?
+Tôi NHUẦN và là người sáng lập PYAN và Thương hiệu Anh Lập Trình.
+Phương pháp giảng dạy là "Cứ ứng dụng vào công việc đi, vướng thì gỡ," nhấn mạnh việc thực hành trước, sau đó giải quyết vấn đề khi gặp phải. Phương pháp này khuyến khích học viên bắt đầu ngay với các tác vụ thực tế, dù chưa hiểu rõ lý thuyết, vì qua quá trình làm việc, lý thuyết sẽ dần dần sáng tỏ, kệ mợ mọi thứ đi.
+Tôi giúp bạn tạo ra các chương trình phục vụ công việc của chính các bạn mà không cần biết lập trình thông qua các nền tảng nổi tiếng nhất hiện nay như airtable và make.com...
+Phải nhấn mạnh rằng:
+Tôi không phải là chuyên gia dạy làm giàu, mà là người chuyên về tự động hóa công việc với AI.
+Tôi bắt đầu khởi nghiệp vào năm 2020, khi còn là một nhân viên văn phòng bình thường tại một công ty xây dựng. Công việc lặp đi lặp lại khiến tôi chán nản, và mặc dù đã có tuổi, tôi vẫn chưa từng được sếp cân nhắc vào những vị trí cao hơn. Điều đó khiến tôi cảm thấy ngại ngùng, đặc biệt là khi làm việc chung với các đồng nghiệp trẻ hơn, năng động hơn.
+Tôi hiểu rằng mình không thể mãi như thế. Thật lòng mà nói, nếu nghỉ rồi quay lại, chắc cũng chẳng có công ty nào chịu nhận tôi hoặc sẽ chỉ trả mức lương ngang với sinh viên mới ra trường. Vậy nên tôi quyết định liều một phen khởi nghiệp với tinh thần không còn đường lùi.
+Những khó khăn trong giai đoạn đầu khởi nghiệp
+Ban đầu, tôi gặp vô vàn khó khăn. Những câu hỏi liên tục xuất hiện trong đầu:
+Tại sao tôi học yếu?
+Tại sao khi làm việc tôi lại thấy chuyên môn của mình quá kém?
+Vì sao mãi không thấy sự phát triển nào?
+Rồi tôi nhận ra nguyên nhân: Tôi không phù hợp với cách học truyền thống. Chính lối học tập cũ kỹ đó đã kìm hãm sự phát triển của tôi. Thay vì tiếp tục mắc kẹt, tôi bắt đầu bứt phá với cách học mới:
+"Cứ ứng dụng vào công việc, vướng thì gỡ"
+Bước ngoặt cuộc đời
+Cuộc đời tôi gần như thay đổi 180 độ khi tôi áp dụng cách học này vào công việc và phát triển kỹ năng. Nhờ đó, tôi tự tin hơn, hiểu rõ hơn về năng lực của mình, và từng bước xây dựng được sự nghiệp riêng.
+Trong khóa học này, tôi sẽ chia sẻ với anh em chính những kinh nghiệm đó. Mỗi bài giảng, mỗi video sẽ là những hướng dẫn chi tiết, thực tế, giúp bạn tự động hóa công việc và nâng cao hiệu quả giống như cách tôi đã làm và rèn luyện cho anh em cách học mới vô cùng hiệu quả và thực dụng này.
+Nếu anh em muốn tìm hiểu thêm về tôi trước khi tham gia khóa học, hãy ghé thăm kênh YouTube và fanpage của tôi. Hy vọng những gì tôi chia sẻ sẽ giúp bạn tìm được con đường phát triển của riêng mình!
+Đăng ký NgayP.S: Giọng của tôi hơi nặng (gốc Nghệ An), có thể sẽ khó nghe với một số anh em. Tuy nhiên, tôi luôn nỗ lực bù đắp điểm yếu này bằng cách hỗ trợ anh em tối đa trong các dự án tự động hóa công việc và hướng dẫn các kỹ năng tự học, giúp anh em tự tin "bơi" mà không phải phụ thuộc vào tôi hay bất kỳ ai.
+Anh em có thể tham khảo một số video tôi hướng dẫn tự động hóa công việc tại kênh Youtube Hoặc Fanpage:
+"Ban đầu tôi nghĩ tự động hóa là thứ gì đó phức tạp. Nhưng khi áp dụng theo cách 'cứ làm đi, sai thì sửa', tôi đã thiết lập thành công hệ thống tìm kiếm và chăm sóc khách hàng. Kết quả là doanh số tăng 30% chỉ sau một tháng."
+Anh Huy – Chủ cửa hàng online
+Cảm Nhận Của Học Viên Đã Từng Học
+"Cách học này giúp tôi vượt qua nỗi sợ 'không biết thì làm sao'. Cứ làm đến đâu gỡ đến đó, và tôi đã tự động hóa việc quảng bá trên Facebook. Bánh bán chạy hơn, khách đặt hàng đều đặn mỗi ngày."
+Chị Mai – Chủ tiệm bánh:
+"Nhờ phương pháp 'vướng thì gỡ', tôi đã tạo được hệ thống tự động gửi báo giá cho khách hàng. Giờ đây, tôi không còn phải ngồi check email cả ngày mà vẫn có khách liên hệ thường xuyên."
+Anh Phú – Freelancer
+"Tôi rất thích cách học này. Ban đầu gặp lỗi hoặc khó khăn, nhưng mỗi lần gỡ được một vấn đề là tôi hiểu hơn về hệ thống. Giờ đây, tôi không cần thức khuya để trả lời tin nhắn khách nữa vì hệ thống tự động đã làm thay."
+Chị Thảo – Bán hàng mỹ phẩm online:
+"Tôi từng nghĩ mình không thể tự động hóa được quy trình marketing vì không biết nhiều về công nghệ. Nhưng nhờ phương pháp 'vướng thì gỡ', tôi đã tự động hóa việc chăm sóc khách hàng. Giờ đây, khách đến đông hơn mà tôi không cần phải lo quảng cáo mỗi ngày."
+Anh Nam –Chủ Doanh nghiệp nhỏ
+"Tôi bắt đầu bán thực phẩm hữu cơ vì muốn khởi nghiệp từ sớm, nhưng thời gian ở công ty khiến tôi khó tập trung. Nhờ khóa học này, tôi đã học cách tự động hóa quy trình bán hàng và chăm sóc khách hàng, giúp công việc kinh doanh vận hành trơn tru mà không ảnh hưởng đến công việc chính. Giờ đây, tôi thấy con đường khởi nghiệp khả thi hơn bao giờ hết."
+Anh Minh – Kỹ sư xây dựng, kinh doanh thực phẩm hữu cơ:
+Đăng ký NgayĐến bây giờ mà anh em vẫn chưa áp dụng AI vào công việc hay cuộc sống, có khi anh em đang sống nhầm thời đại
+Đừng trì hoãn ! Tham gia "Chồng Giỏi AI - Tự Động Hóa Video, Hình Ảnh Với AI " ngay hôm nay để tiết kiệm thời gian, tăng năng suất, và chinh phục công nghệ mà không cần viết một dòng code nào! Nắm bắt cơ hội để làm việc thông minh hơn, phát triển nhanh hơn và dẫn đầu cuộc chơi và đặc biệt là x10,x15 khách hàng hiện tại.
+Học phí khuyến mãi chỉ hôm nay : 1.520.000 VNĐ
+Các thầy ngoài kia họ dạy chung chung rồi để các bạn tự phát triển, còn tôi là dân kỹ thuật, tôi sẽ hướng dẫn anh em chương trình theo ý tưởng anh em muốn viết luôn (chương trình càng mất nhiều thời gian, càng thử thách tôi càng thích, càng làm càng khoái)
+Những câu hỏi thường gặp
+Tôi có cần phải trả phí cho bên thứ ba nào không?
+Điều này sẽ phụ thuộc vào số lượng tự động hóa bạn tạo. Bản thân Make.com miễn phí cho tối đa 1.000 hoạt động mỗi tháng. Tất cả các mô-đun có trong các mẫu đều có bản dùng thử miễn phí. Bạn có thể bắt đầu hoàn toàn miễn phí và có thể chọn trả phí đăng ký nhỏ nếu bạn nhận được nhiều lợi ích.
+Tôi có thể truy cập nội dung khóa học bằng cách nào?
+Chúng tôi sẽ gửi email cập nhật khi có nội dung mới.
+Tôi mới làm quen với tự động hóa, liệu giải pháp này có phù hợp với tôi không?
+Có, chắc chắn rồi. Không cần code và quá trình thiết lập tự động hóa dựa nhiều hơn vào logic và sự sáng tạo.
+Tôi có thể bán lại các template này không?
+Bạn không được phép bán lại các mẫu dưới dạng mẫu, nhưng bạn được phép sử dụng chúng cho chính mình hoặc triển khai chúng cho các doanh nghiệp khác. Bạn có thể tính phí cho bên thứ ba để triển khai các mẫu này cho họ.
+Tự Động Hóa Cuộc Sống Với AI
+Liên hệ
+contact@anhlaptrinh.vn
+Mã số thuế: 0318822989
+Cứ ứng dụng vào công việc đi,
+vướng thì gỡ
+Lầu 5: Toà Nhà ST. MORITZ 1014 Phạm Văn Đồng, P, Thủ Đức, Thành phố Hồ Chí Minh
+Công Ty TNHH Anh Lập Trình
+097410371
